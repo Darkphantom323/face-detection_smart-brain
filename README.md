@@ -1,4 +1,4 @@
-# Face-detection smart-brain using Node.js, Express.js, React.js, Postgre,Clarifai-api 
+# Face-detection with image URL using Node.js, Express.js, React.js, Postgre,Clarifai-api 
 
 ## Usage Instructions:
 
