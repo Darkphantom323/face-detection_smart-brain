@@ -1,0 +1,8 @@
+# Include rules from smart-brain-master/.gitignore
+include smart-brain-master/.gitignore
+
+# Include rules from .smart-brain-boost-api-master/.gitignore
+include smart-brain-boost-api-master/.gitignore
+
+# Add any additional rules specific to the face-detection folder if needed
+# Additional rules for face-detection folder
