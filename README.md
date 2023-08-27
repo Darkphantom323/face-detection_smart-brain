@@ -1,4 +1,4 @@
-# Face-detection web-app with image URL using Node.js, Express.js, React.js, Postgre,Clarifai-api 
+# Face-detection Web-app with image URL using Node.js, Express.js, React.js, Postgre,Clarifai-api 
 
 ## Usage Instructions:
 
