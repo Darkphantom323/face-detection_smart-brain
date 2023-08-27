@@ -4,13 +4,13 @@
 
 Before running front-end and back-end ensure that you add Clarifai api key in image.js in the backend folder (smart-brain-boost-api-master/controllers) and keep the PostgreSQL server running.
 
-For back-end:
--Run npm install
--Run npm start
+## For back-end:
+   -Run npm install
+   -Run npm start
 
-For front-end:
--Run npm install
--Run npm start
+## For front-end:
+   -Run npm install
+   -Run npm start
 
 ## Sign-in page
 ![image](https://github.com/Darkphantom323/face-detection_smart-brain/assets/99313418/3ffd0c5f-ee2d-454b-aefd-bd12e8cdfa65)
